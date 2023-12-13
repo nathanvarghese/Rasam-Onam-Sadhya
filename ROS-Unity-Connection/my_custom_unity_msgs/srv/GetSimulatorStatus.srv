@@ -1,0 +1,3 @@
+# GetSimulatorStatus.srv
+---
+my_custom_unity_msgs/SimulatorStatus[] characters_data
